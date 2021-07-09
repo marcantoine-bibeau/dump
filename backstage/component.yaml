@@ -6,6 +6,6 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: dice-roller
 spec:
-  type: website
+  type: service
   owner: platform@sonder.com
   lifecycle: experimental
