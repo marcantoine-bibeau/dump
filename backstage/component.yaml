@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dice-roller-component
+  description: Sonder dice-roller Component.
+  annotations:
+    'backstage.io/kubernetes-id': dice-roller
+spec:
+  type: website
+  owner: platform@sonder.com
+  lifecycle: experimental
