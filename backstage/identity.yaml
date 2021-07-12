@@ -8,4 +8,4 @@ metadata:
 spec:
   type: service
   owner: platform@sonder.com
-  lifecycle: experimental
+  lifecycle: production
