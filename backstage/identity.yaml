@@ -4,7 +4,8 @@ metadata:
   name: identity
   description: Identity service.
   annotations:
-    'backstage.io/kubernetes-label-selector': "app.kubernetes.io/name=identity"
+    backstage.io/kubernetes-label-selector: "app.kubernetes.io/name=identity"
+    github.com/project-slug: "Flatbook/identity"
 spec:
   type: service
   owner: platform@sonder.com
